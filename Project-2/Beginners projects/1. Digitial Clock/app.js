@@ -19,7 +19,6 @@ function UpdateClock() {
     if (h > 12) {
         h = h - 12;
         ampm = "PM"
-        document.body.style.background = `url("https://images.unsplash.com/photo-1596501047855-55aa4c266e96?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8YmxhY2slMjBuYXR1cmV8ZW58MHx8MHx8&auto=format&fit=crop&w=1000&q=60")`;
         a.style.color = "pink";
 
     }
