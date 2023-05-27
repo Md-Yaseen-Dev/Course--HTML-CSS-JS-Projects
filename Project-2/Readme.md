@@ -18,4 +18,22 @@
 ### 7. Heart Trail Animation &#8594; [Click-here](./Beginners%20projects/7.%20heart%20Trail%20Animation/)
 
 
-### 8. Video trailer Popup[Click-here](./Beginners%20projects/8.%20Video%20trailer%20popup/)
+### 8. Video trailer Popup &#8594; [Click-here](./Beginners%20projects/8.%20Video%20trailer%20popup/)
+
+
+### 9. Blurred Background Popup &#8594; [Click-here](./Beginners%20projects/9.%20Blurred%20background%20popup/)
+
+### 10.Background image scroll effect &#8594; [Click-here](./Beginners%20projects/10.%20Background%20image%20scroll%20effect/)
+
+### 11. Drum kits &#8594; [Click-here](./Beginners%20projects/11.%20Drum%20kits/)
+
+### 12. Random Photos  &#8594;  [Click-here](./Beginners%20projects/12.%20Random%20Photos/)
+
+### 13. Image slider  &#8594;  [Click-here](./Beginners%20projects/13.%20Image%20slider/)
+
+### 14. Dark mode toggle &#8594;  [Click-here](./Beginners%20projects/14.%20Dark%20mode%20toggle/)
+
+### 15. Auto text effect animation &#8594; [Click-here](./Beginners%20projects/15.%20Auto%20text%20effect%20animation/)
+
+### 16. Tab section &#8594;  [Click-here](./Beginners%20projects/16.%20Tab%20section/)
+
