@@ -84,7 +84,7 @@ nextBtn.addEventListener('click', function () {
     if (currentItem > reviews.length - 1) {
         currentItem = 0;
     }
-    showPerson(currentItem);
+    showPerson();
 });
 //show prev person
 prevBtn.addEventListener('click', function () {
@@ -92,7 +92,7 @@ prevBtn.addEventListener('click', function () {
     if (currentItem < 0) {
         currentItem = reviews.length - 1;
     }
-    showPerson(currentItem)
+    showPerson()
 });
 
 //show random person
