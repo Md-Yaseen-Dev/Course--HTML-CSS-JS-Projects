@@ -7,4 +7,4 @@
 
 > 03. Reviews 👉 [click-here](./Vanilla%20javascript%20course/03.%20Reviews/)
 
-
+> 04. Navbar 👉 [click-here](./Vanilla%20javascript%20course/04.%20Navbar/)
