@@ -16,3 +16,18 @@
 > 07. Questions 👉 [click-here](./Vanilla%20javascript%20course/07.%20Questions/)
 
 > 08. Menu 👉 [Click-here](./Vanilla%20javascript%20course/08.%20Menu/)
+
+> 09. Video Project  👉 [Click-here](./Vanilla%20javascript%20course/09.%20video%20Project/)
+
+> 10. Scroll Project  👉 [Click-here](./Vanilla%20javascript%20course/10.%20Scroll%20project/)
+
+> 11. Tabs  👉 [Click-here](./Vanilla%20javascript%20course/11.%20Tabs/)
+
+> .  👉 [Click-here]()
+> .  👉 [Click-here]()
+> .  👉 [Click-here]()
+> .  👉 [Click-here]()
+
+
+
+
