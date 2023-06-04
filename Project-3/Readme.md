@@ -23,10 +23,10 @@
 
 > 11. Tabs  👉 [Click-here](./Vanilla%20javascript%20course/11.%20Tabs/)
 
-> .  👉 [Click-here]()
-> .  👉 [Click-here]()
-> .  👉 [Click-here]()
-> .  👉 [Click-here]()
+> 12. Countdown  👉 [Click-here](./Vanilla%20javascript%20course/12.%20Countdown/)
+> 13. Lorem ipsum  👉 [Click-here](./Vanilla%20javascript%20course/13.%20lorem%20ipsum/)
+> 14. Grocery-bud  👉 [Click-here](./Vanilla%20javascript%20course/14.%20Grocery-bud/)
+> 15. Slider  👉 [Click-here](./Vanilla%20javascript%20course/15.%20Slider/)
 
 
 
