@@ -1,6 +1,6 @@
 const bodyE1 = document.querySelector("body");
 
-bodyE1.addEventListener("mousemove", (event) => {
+bodyE1.addEventListener("click", (event) => {
     const xPos = event.offsetX;
     const yPos = event.offsetY;
     const spanE1 = document.createElement("span");
@@ -12,7 +12,7 @@ bodyE1.addEventListener("mousemove", (event) => {
 
     
     spanE1.style.height = size + "px";
-    spanE1.style.width = size
+    // spanE1.style.width = size
     bodyE1.appendChild(spanE1)
 setTimeout(() =>{
     spanE1.remove();
